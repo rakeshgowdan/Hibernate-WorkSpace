@@ -13,9 +13,9 @@ public class App
     {
     	
     	Student s1=new Student();
-    	s1.setEid(1002);
-    	s1.setName("Rakesh");
-    	s1.setAddress("Earth");
+    	s1.setEid(1003);
+    	s1.setName("Rohit");
+    	s1.setAddress("pluto");
   
     	Configuration cf= new Configuration().configure().addAnnotatedClass(Student.class);
     	//After 4.1 new Method)
