@@ -21,6 +21,7 @@ public class Worker {
 	public void setName(String name) {
 		this.name = name;
 	}
+	
 	public int getSalary() {
 		return salary;
 	}
