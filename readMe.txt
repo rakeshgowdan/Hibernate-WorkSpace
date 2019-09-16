@@ -43,3 +43,18 @@ It is a factory of JDBC connections. It abstracts the application from DriverMan
 
 TransactionFactory
 It is a factory of Transaction
+--------------------------------------------------------------------------------------------------------------------
+Hibernate session
+New state
+Garbage state
+garbage(); method of Hibernate 
+Transient state
+save (); method of Hibernate 
+Persistence state
+persist(); method of Hibernate 
+Detached state
+detach(); method of Hibernate 
+Removed
+remove (); method of Hibernate 
+get(); method of Hibernate 
+find(); method of Hibernate
